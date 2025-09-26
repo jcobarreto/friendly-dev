@@ -36,6 +36,13 @@
   },
   {
     "id": "6",
+    "slug": "study-ia",
+    "title": "Studying IA Coding",
+    "excerpt": "An in-depth look at IA coding techniques and best practices.",
+    "date": "2025-04-02T00:00:00"
+  },
+  {
+    "id": "7",
     "slug": "julios-post",
     "title": "Julios Post",
     "excerpt": "This is a post by Julio",
